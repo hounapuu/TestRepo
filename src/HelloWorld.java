@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("goodbye world");
         System.out.println("Ära anna veel alla!");
         System.out.println("dan oli siin");
+        System.out.println("Kõik ei ole kadunud!");
     }
 }
